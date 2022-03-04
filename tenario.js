@@ -7,5 +7,6 @@
 //    console.log("suco")
 // }
 
+             //condição                  //true       //false      
 console.log(idadeCliente >= iadeMinima ? "cerveja" : "suco")
 
