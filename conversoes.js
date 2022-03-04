@@ -9,6 +9,4 @@ const numeroString = Number("456");
 //String()
 console.log(numero + numeroString)
 
-
-
 //conversaõ explícita
